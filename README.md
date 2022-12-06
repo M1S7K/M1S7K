@@ -24,7 +24,18 @@ Here are some ideas to get you started:
 
 <div align="left">
   <h2>Skills:</h2>
-  
+  <h3>Programming Languages:</h3>
+  <img src="https://img.shields.io/badge/JavaScript-FD841F?style=flat&logo=javascript&labelColor=001253">
+  <h3>Frontend Development:<h3>
+  <img src="https://img.shields.io/badge/HTML-FD841F?style=flat&logo=html5&labelColor=001253">
+  <img src="https://img.shields.io/badge/CSS3-FD841F?style=flat&logo=css3&labelColor=001253">
+  <img src="https://img.shields.io/badge/Sass-FD841F?style=flat&logo=sass&labelColor=001253">
+  <img src="https://img.shields.io/badge/Tailwind-FD841F?style=flat&logo=tailwindcss&labelColor=001253">
+  <img src="https://img.shields.io/badge/Bootstrap-FD841F?style=flat&logo=bootstrap&labelColor=001253">
+  <img src="https://img.shields.io/badge/React-FD841F?style=flat&logo=react&labelColor=001253">
+  <h3>Backend Development:</h3>
+  <img src="https://img.shields.io/badge/Nodejs-FD841F?style=flat&logo=node.js&labelColor=001253">
+  <img src="https://img.shields.io/badge/express-FD841F?style=flat&logo=express&labelColor=001253">
   <h2>Links:</h2>
   <a href="https://www.linkedin.com/in/mikhailshumilin/">
     <img src="https://img.shields.io/badge/LinkedIn-FD841F?style=flat&logo=linkedin&labelColor=001253"></a>
