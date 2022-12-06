@@ -1,11 +1,8 @@
 <!--
-### Hi there 👋
-**M1S7K/M1S7K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,11 +16,15 @@ Here are some ideas to get you started:
 </div>
 
 <div align="left">
-  <h2>About me</h2>
+  <h2>About me:</h2>
   <p>Professional Basketball player in the past, been working as a coach for more then 7 years. Passionate about Web Development.</p>
+  <h2>Currently learning</h2>
+  <p>Relational Database, using developer tools and software including VS Code, PostgreSQL, and the Linux / Unix command line</p>
   </div
 
 <div align="left">
+  <h2>Skills:</h2>
+  
   <h2>Links:</h2>
   <a href="https://www.linkedin.com/in/mikhailshumilin/">
     <img src="https://img.shields.io/badge/LinkedIn-FD841F?style=flat&logo=linkedin&labelColor=001253"></a>
