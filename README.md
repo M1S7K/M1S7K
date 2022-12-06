@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <div>
   <p>Links:</p>
   <a href="https://codepen.io/M1S7">
-    <img src="https://img.shields.io/badge/LinkedIn-FD841F?style=flat&logo=linkedin&labelColor=001253">
-  </a>
-  <a href="https://codepen.io/M1S7"><img src="https://img.shields.io/badge/CodePen-FD841F?style=flat&logo=codepen&labelColor=001253"></a>
+    <img src="https://img.shields.io/badge/LinkedIn-FD841F?style=flat&logo=linkedin&labelColor=001253"></a>
+  <a href="https://codepen.io/M1S7">
+    <img src="https://img.shields.io/badge/CodePen-FD841F?style=flat&logo=codepen&labelColor=001253"></a>
   </div>
 
