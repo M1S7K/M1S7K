@@ -20,5 +20,5 @@ I'm Michael from Ukraine
   </a>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/CodePen-CodePen-FD841F?style=for-the-badge&logo=codepen&labelColor=001253">
+  <img src="https://img.shields.io/badge/CodePen-FD841F?style=for-the-badge&logo=codepen&labelColor=001253">
   </div>
