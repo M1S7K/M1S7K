@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 <p>My name is Michael and I'm a Developer</p>
 </div>
 
-<div>
-  <p>Links:</p>
+<div align="left">
+  <h2>About me</h2>
+  <p>Professional Basketball player in the past, been working as a coach for more then 7 years. Passionate about Web Development.</p>
+  </div
+
+<div align="left">
+  <h2>Links:</h2>
   <a href="https://www.linkedin.com/in/mikhailshumilin/">
     <img src="https://img.shields.io/badge/LinkedIn-FD841F?style=flat&logo=linkedin&labelColor=001253"></a>
     <a href="https://www.freecodecamp.org/fccb68455c5-33b9-4af6-bfe1-43778224c837">
