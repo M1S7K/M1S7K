@@ -12,12 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Hi there 👋
-I'm Michael from Ukraine
 -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1500&color=EE8101&width=350&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Michael" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=900&size=24&color=FD841F&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;+I'm+Michael" alt="Typing SVG" /></a>
 </div>
 <div>
   <img src="https://img.shields.io/badge/CodePen-FD841F?style=for-the-badge&logo=codepen&labelColor=001253">
