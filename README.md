@@ -104,5 +104,8 @@
   <a href="https://codepen.io/M1S7" target="_blank" rel="noreferrer">
       <img  alt="codepen" height="50px" style="margin-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/>
   </a>
+  <a href="mailto:shumilinms@gmail.com" target="_blank">
+        <img alt="gmail" height="50px" style="margin-left:10px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
+    </a>
 </section>
 <!-- ..... -->
