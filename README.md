@@ -99,13 +99,14 @@
       <img  alt="linkedin" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
   <a href="https://www.freecodecamp.org/fccb68455c5-33b9-4af6-bfe1-43778224c837" target="_blank" rel="noreferrer">
-      <img  alt="freecodecamp" height="50px" style="border-radius: 5px; margin-left:10px" src="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"/>
+      <img  alt="freecodecamp" height="50px" style="border-radius: 5px; margin-left:10px" src="https://img.icons8.com/color/48/null/free-code-camp.png"/>
   </a>
   <a href="https://codepen.io/M1S7" target="_blank" rel="noreferrer">
       <img  alt="codepen" height="50px" style="margin-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/>
   </a>
   <a href="mailto:shumilinms@gmail.com" target="_blank">
-        <img alt="gmail" height="50px" style="margin-left:10px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
+        <img alt="gmail" height="50px" style="margin-left:10px" src="https://img.icons8.com/color/48/null/gmail-new.png"/>
     </a>
 </section>
 <!-- ..... -->
+
