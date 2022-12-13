@@ -53,6 +53,9 @@
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
       <img  alt="mongodb" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img  alt="postgresql" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+      </a>
   <h3 style="margin-bottom: 10px">Data Visualization:</h3>
   <a href="https://d3js.org" target="_blank" rel="noreferrer">
       <img  alt="d3js" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"/>
