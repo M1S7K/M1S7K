@@ -10,7 +10,7 @@
 <h2 style="font-weight: 700; color: #FD841F">About me:</h2>
 <p>Professional Basketball player in the past, been working as a coach for more then 9 years. Passionate about Web Development.</p>
 <h2 style="font-weight: 700; color: #FD841F">Currently learning:</h2>
-<p>Relational Database, using developer tools and software including VS Code, PostgreSQL, and the Linux / Unix command line</p>
+<p>Advanced Node and Express concepts, and learning how to create tests with Chai to make sure that applications function as expected. Using Passport for authentication, Socket.io for real-time communication between the server and connected clients, and Pug as the template engine to  obtain a Quality Assurance Certification from freeCodeCamp</p>
 <h2 style="font-weight: 700; color: #FD841F">Currently working on:</h2>
 <p>Website to augment the Telegram channel, with the goal of helping to learn English to children who have left Ukraine.</p>
 </section>
